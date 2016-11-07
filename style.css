@@ -23,3 +23,14 @@
 	border:2px solid black;
 	text-align:center;
 }
+
+#baner
+{
+	width:auto;
+	height:auto;
+}
+
+.baner
+{
+	background-image:url('../baner.png');
+}
