@@ -5,3 +5,11 @@
 	border: 2px blue solid;
 	text-align: center;
 }
+
+.moj_blog
+{
+	width:100%;
+	height:auto;
+	border: 2px solid red;
+	text-align:center;
+}
