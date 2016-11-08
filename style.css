@@ -39,7 +39,7 @@
 
 .naglowek
 {
-	width:33%;
+	width:30%;
 	height: 30px;
 	border: 2px solid blue;
 	float: left;
@@ -47,7 +47,7 @@
 
 .naglowek2
 {
-	width:33%;
+	width:30%;
 	height: 30px;
 	border: 2px solid blue;
 	float: center;
@@ -55,7 +55,7 @@
 
 .zdjecie
 {
-	width:33%;
+	width:30%;
 	height: 30px;
 	border: 2px solid blue;
 	float: right;
