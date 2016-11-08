@@ -33,7 +33,7 @@
 .inline
 {
 	clear: both;
-	display: table;
+	display: block;
 	width: 100%;
 	border: 2px solid red;
 }
