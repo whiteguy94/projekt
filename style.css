@@ -39,7 +39,6 @@
 
 .naglowek
 {
-	margin-right: 1%;
 	width:30%;
 	height: 30px;
 	border: 2px solid blue;
@@ -48,8 +47,6 @@
 
 .naglowek2
 {
-	margin-left: 1%;
-	margin-right: 1%;
 	width:30%;
 	height: 30px;
 	border: 2px solid blue;
