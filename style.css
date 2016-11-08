@@ -32,7 +32,7 @@
 
 .inline
 {
-	display: inline;
+	display: block;
 	width: 100%;
 	border: 2px solid red;
 }
