@@ -49,6 +49,7 @@
 .naglowek2
 {
 	display: inline-block;
+	vertical-align: top;
 	width:30%;
 	height: 30px;
 	border: 2px solid blue;
