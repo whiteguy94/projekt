@@ -33,7 +33,7 @@
 .inline
 {
 	clear: both;
-	display: block;
+	display: table;
 	width: 100%;
 	border: 2px solid red;
 }
@@ -43,7 +43,7 @@
 	width:30%;
 	height: 30px;
 	border: 2px solid blue;
-	float: left;
+	display: table-cell;
 }
 
 .naglowek2
@@ -52,6 +52,7 @@
 	height: 30px;
 	border: 2px solid blue;
 	margin: auto;
+	display: table-cell;
 }
 
 .zdjecie
@@ -59,5 +60,5 @@
 	width:30%;
 	height: 30px;
 	border: 2px solid blue;
-	float: right;
+	display: table-cell;
 }
