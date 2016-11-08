@@ -62,3 +62,8 @@
 	border: 2px solid blue;
 	float: left;
 }
+
+.clear
+{
+	clear: both;
+}
