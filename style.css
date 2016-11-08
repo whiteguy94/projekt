@@ -48,6 +48,7 @@
 
 .naglowek2
 {
+	display: inline-block;
 	width:30%;
 	height: 30px;
 	border: 2px solid blue;
