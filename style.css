@@ -42,6 +42,7 @@
 	width:33%;
 	height: 10px;
 	border: 2px solid blue;
+	float: right;
 }
 
 .naglowek2
@@ -49,6 +50,7 @@
 	width:33%;
 	height: 10px;
 	border: 2px solid blue;
+	float: right;
 }
 
 .zdjecie
