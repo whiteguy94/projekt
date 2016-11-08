@@ -51,9 +51,7 @@
 	width:30%;
 	height: 30px;
 	border: 2px solid blue;
-	margin-left: auto;
-	margin-right: auto;
-	display: inline-block;
+	margin: auto;
 }
 
 .zdjecie
