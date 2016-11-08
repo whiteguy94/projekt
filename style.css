@@ -30,6 +30,13 @@
 	height:auto;
 }
 
+.inline
+{
+	display: inline;
+	width: 100%;
+	border: 2px solid red;
+}
+
 .naglowek
 {
 	width:33%;
