@@ -22,13 +22,17 @@ html, body
 
 .nav
 {
-	font-family: "Impact, Charcoal, sans-serif";
 	margin-top:10px;
 	margin-bottom: 10px;
 	width:100%;
 	height:auto;
 	border:2px solid black;
 	text-align:center;
+}
+
+a.nav
+{
+	font-family: "Impact, Charcoal, sans-serif";
 }
 
 #baner
