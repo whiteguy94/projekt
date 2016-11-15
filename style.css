@@ -75,7 +75,7 @@ nav > a
 .zdjecie
 {
 	width:30%;
-	height: 30px;
+	height: auto;
 	border: 2px solid blue;
 	float: left;
 	margin-left: 2.2%;
