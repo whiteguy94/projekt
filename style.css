@@ -30,7 +30,7 @@ html, body
 	text-align:center;
 }
 
-a.nav
+nav>a
 {
 	font-family: "Impact, Charcoal, sans-serif";
 }
