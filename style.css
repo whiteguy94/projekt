@@ -22,7 +22,7 @@ html, body
 
 .nav
 {
-	font-size: 2em;
+	font-size: 200%;
 	margin-top:10px;
 	margin-bottom: 10px;
 	width:100%;
@@ -34,7 +34,6 @@ html, body
 nav > a
 {
 	font-family: "Impact", Charcoal, sans-serif;
-	font-size: 2em;
 }
 
 #baner
