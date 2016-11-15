@@ -33,7 +33,13 @@ html, body
 
 nav > a
 {
+	text-decoration: none;
 	font-family: "Impact", Charcoal, sans-serif;
+}
+
+nav > a:hover
+{
+	color: white;
 }
 
 #baner
