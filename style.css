@@ -1,6 +1,6 @@
 html, body
 {
-	background-color: lightblue;
+	background: linear-gradient(blue, white);
 }
 
 .logo
@@ -97,7 +97,7 @@ nav > a:hover
 footer.stopka
 {
 	font-family: "Comic Sans MS", cursive, sans-serif;
-	background: linear-gradient(blue, white);
+	background-color: lightblue;
 	width: 100%;
 	height: auto;
 	text-align: center;
