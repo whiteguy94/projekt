@@ -34,13 +34,14 @@ html, body
 nav > a
 {
 	text-decoration: none;
+	color: blue;
 	font-family: "Impact", Charcoal, sans-serif;
 }
 
 nav > a:hover
 {
 	font-size: 90%;
-	color: white;
+	color: cyan;
 }
 
 #baner
