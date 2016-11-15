@@ -32,7 +32,7 @@ html, body
 
 nav > a
 {
-	font-family: "Impact, Charcoal, sans-serif";
+	font-family: "Impact", Charcoal, sans-serif;
 }
 
 #baner
@@ -88,7 +88,7 @@ nav > a
 
 footer.stopka
 {
-	font-family: "Impact", Charcoal, sans-serif;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 	background: linear-gradient(blue, white);
 	width: 100%;
 	height: auto;
