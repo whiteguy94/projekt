@@ -110,11 +110,11 @@ nav > a:hover
 
 .zdjecia
 {
-	width:50%;
-	height: 50%;
+	width:45%;
+	height: 45%;
 	border: 2px solid blue;
 	float: left;
-	margin-left: 2%;
+	margin-left: 1%;
 }
 
 footer.stopka
