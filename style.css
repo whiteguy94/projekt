@@ -101,6 +101,18 @@ nav > a:hover
 	width:75%;
 	height: auto;
 	border: 2px solid blue;
+	text-align: center;
+	clear: both;
+	display: block;
+}
+
+.zdjecia
+{
+	width:30%;
+	height: 30px;
+	border: 2px solid blue;
+	float: left;
+	margin-left: 2.2%;
 }
 
 footer.stopka
