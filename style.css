@@ -96,6 +96,15 @@ nav > a:hover
 	clear: both;
 }
 
+.galeria
+{
+	width:30%;
+	height: auto;
+	border: 2px solid blue;
+	float: left;
+	
+}
+
 footer.stopka
 {
 	font-family: "Comic Sans MS", cursive, sans-serif;
