@@ -84,7 +84,6 @@ nav > a:hover
 
 .zdjecie
 {
-	padding-top:5px;
 	width:30%;
 	height: auto;
 	border: 2px solid blue;
@@ -111,6 +110,7 @@ nav > a:hover
 
 .zdjecia
 {
+	padding-top:5px;
 	width:45%;
 	height: 45%;
 	border: 2px solid blue;
