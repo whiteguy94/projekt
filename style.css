@@ -98,12 +98,12 @@ nav > a:hover
 
 .galeria
 {
-	width:75%;
-	height: auto;
-	border: 2px solid blue;
 	text-align: center;
 	clear: both;
 	display: block;
+	width: 75%;
+	border: 2px solid red;
+	margin-top: 10px;
 }
 
 .zdjecia
