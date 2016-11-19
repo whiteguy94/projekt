@@ -1,12 +1,8 @@
 html, body
 {
+	height:100%;
 	margin: 0;
         padding:0;
-        position:absolute;/* this is very important*/
-        bottom:0;
-        top:0;
-        right:0;
-        left:0;
         background: linear-gradient(white, deepskyblue);
 }
 
