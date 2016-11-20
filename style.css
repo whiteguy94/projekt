@@ -99,7 +99,9 @@ nav > a:hover
 
 .mapa
 {
-	width:100%;
+	border: 5px solid black;
+	margin-left:3%;
+	width:90%;
 	height:auto;
 }
 .galeria
