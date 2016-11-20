@@ -154,6 +154,11 @@ nav > a:hover
 	margin-left: 3%;
 }
 
+.zdjecia p
+{
+	border: 5px solid black;
+}
+
 footer.stopka
 {
 	font-family: "Comic Sans MS", cursive, sans-serif;
