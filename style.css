@@ -96,6 +96,11 @@ nav > a:hover
 	clear: both;
 }
 
+.mapa
+{
+	width:100%;
+	height:auto;
+}
 .galeria
 {
 	text-align: center;
