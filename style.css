@@ -67,7 +67,7 @@ nav > a:hover
 	height: 30%;
 	border: 2px solid blue;
 	float: left;
-	margin-left: 2.2%;
+	margin-left: 2%;
 }
 
 .naglowek2
@@ -79,7 +79,7 @@ nav > a:hover
 	height: 30%;
 	border: 5px solid black;
 	float: left;
-	margin-left: 2.2%;
+	margin-left: 2%;
 }
 
 .zdjecie
@@ -88,7 +88,7 @@ nav > a:hover
 	width:30%;
 	height: 30%;
 	float: left;
-	margin-left: 2.2%;
+	margin-left: 2%;
 }
 
 .clear
