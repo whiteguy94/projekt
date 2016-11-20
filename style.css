@@ -72,9 +72,8 @@ nav > a:hover
 
 .naglowek2
 {
-	padding: 1%;
+	padding: 5px;
 	text-align: justify;
-	text-justify: inter-word;
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	width:30%;
 	height: 30%;
