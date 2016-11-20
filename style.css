@@ -93,7 +93,7 @@ nav > a:hover
 	height: 30%;
 	border: 5px solid black;
 	float: left;
-	margin-left: 2%;
+	margin-left: 1.9%;
 }
 
 .naglowek_home
@@ -104,7 +104,7 @@ nav > a:hover
 	overflow: scroll;
 	border: 5px solid black;
 	float: left;
-	margin-left: 2%;
+	margin-left: 1.9%;
 	padding-left: 5px;
 	padding-right: 5px;
 	text-align: justify;
@@ -131,7 +131,7 @@ nav > a:hover
 	overflow: scroll;
 	border: 5px solid black;
 	float: left;
-	margin-left: 2%;
+	margin-left: 1.9%;
 }
 
 .zdjecie
@@ -139,7 +139,7 @@ nav > a:hover
 	width:30%;
 	height: 30%;
 	float: left;
-	margin-left: 2%;
+	margin-left: 1.9%;
 }
 
 .clear
