@@ -3,6 +3,11 @@ html, body
         background: linear-gradient(white, deepskyblue);
 }
 
+table td tr td ul li a
+{
+	text-align: left;
+}
+
 .naglowek2 h3
 {
 	text-align: center;
