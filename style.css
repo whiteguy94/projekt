@@ -3,9 +3,9 @@ html, body
         background: linear-gradient(white, deepskyblue);
 }
 
-table td tr td ul li a
+.naglowek a:hover
 {
-	text-align: left;
+	color: lightblue;
 }
 
 .naglowek2 h3
