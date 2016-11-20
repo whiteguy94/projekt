@@ -156,7 +156,10 @@ nav > a:hover
 
 .zdjecia p
 {
+	text-align: justify;
 	border: 5px solid black;
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
 footer.stopka
