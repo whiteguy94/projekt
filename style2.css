@@ -151,6 +151,8 @@
 			margin-top: 1%;
 			width: 75%;
 			margin-left: 10%;
+			height: auto;
+			font-size: 1.2em;
 		}
 		
 		.zdjecie
@@ -192,7 +194,7 @@
 		{
 			width: 80%;
 			margin-left: 6%;
-			font-size: 1.25em;
+			font-size: 1.1em;
 		}
 }
 
