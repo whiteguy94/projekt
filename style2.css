@@ -1,7 +1,17 @@
 @media screen and (device-width: 360px) and (orientation: portrait)
 	{
-		html, body
+		.naglowek_home
 		{
-		background-color: yellow;
+			width: 75%;
+		}
+		
+		.naglowek2
+		{
+			width: 75%;
+		}
+		
+		.zdjecie
+		{
+			width: 75%;
 		}
 	}
