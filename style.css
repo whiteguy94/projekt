@@ -196,7 +196,7 @@ footer.stopka
 	margin-top: 10px;
 }
 
-@media screen and (min-device-width: 320px) and (max-device-width: 720px)
+@media screen and (min-device-width: 320px)
 	{
 		background-color: yellow;
 	}
