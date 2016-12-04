@@ -160,11 +160,6 @@
 			margin-left: 11%;
 		}
 		
-		.nav
-		{
-			font-size: 2em;
-		}
-		
 		.zdjecia
 		{
 			width: 70%;
@@ -180,12 +175,12 @@
 		
 		.naglowek table tr td ul li a
 		{
-			font-size: 2em;
+			font-size: 1.2em;
 		}
 		
 		.inline .naglowek h3
 		{
-			font-size: 2em;
+			font-size: 1.2em;
 		}
 		
 		.inline .naglowek table
