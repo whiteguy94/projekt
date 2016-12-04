@@ -4,20 +4,24 @@
 		{
 			width: 75%;
 			margin-left: 10%;
-			margin-top: 5px;
 		}
 		
 		.naglowek2
 		{
-			margin-top: 5px;
+			margin-top: 1%;
 			width: 75%;
 			margin-left: 10%;
 		}
 		
 		.zdjecie
 		{
-			margin-top: 5px;
+			margin-top: 1%;
 			width: 75%;
 			margin-left: 11%;
+		}
+		
+		.nav a
+		{
+			font-weight: bold;
 		}
 	}
