@@ -198,5 +198,8 @@ footer.stopka
 
 @media screen and (min-device-width: 360px)
 	{
+		html,body
+		{
 		background-color: yellow;
+		}
 	}
