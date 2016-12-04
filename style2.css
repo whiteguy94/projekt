@@ -20,6 +20,17 @@
 			float: left;
 			margin-left: 7.5%;
 		}
+		
+		.naglowek2 p
+		{
+			font-size: 1.5em;
+		}
+		
+		.naglowek2 h3
+		{
+			font-size: 1.5em;
+		}
+
 		.zdjecie
 		{
 			margin-top: 1%;
