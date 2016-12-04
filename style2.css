@@ -34,6 +34,8 @@
 		
 		.naglowek
 		{
+			width: 75%;
+			margin-left: 10%;
 			font-size: 1.5em;
 			font-weight: bold;
 		}
