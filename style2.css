@@ -60,3 +60,255 @@
 			font-size: 1.25em;
 		}
 	}
+
+@media screen and (device-width: 412px) and (orientation: portrait)
+	{
+		.naglowek_home
+		{
+			width: 75%;
+			margin-left: 10%;
+		}
+		
+		.naglowek2
+		{
+			margin-top: 1%;
+			width: 75%;
+			margin-left: 10%;
+		}
+		
+		.zdjecie
+		{
+			margin-top: 1%;
+			width: 75%;
+			margin-left: 11%;
+		}
+		
+		.nav
+		{
+			font-size: 2em;
+		}
+		
+		.zdjecia
+		{
+			width: 70%;
+			margin-left: 12.5%;
+			height: 70%;
+		}
+		
+		.naglowek
+		{
+			width: 77%;
+			margin-left: 10%;
+		}
+		
+		.naglowek table tr td ul li a
+		{
+			font-size: 2em;
+		}
+		
+		.inline .naglowek h3
+		{
+			font-size: 2em;
+		}
+		
+		.inline .naglowek table
+		{
+			margin-left: 6%;
+		}
+		
+		.pod_mapa
+		{
+			width: 80%;
+			margin-left: 6%;
+			font-size: 1.25em;
+		}
+}
+
+@media screen and (device-width: 320px) and (orientation: portrait)
+	{
+		.naglowek_home
+		{
+			width: 75%;
+			margin-left: 10%;
+		}
+		
+		.naglowek2
+		{
+			margin-top: 1%;
+			width: 75%;
+			margin-left: 10%;
+		}
+		
+		.zdjecie
+		{
+			margin-top: 1%;
+			width: 75%;
+			margin-left: 11%;
+		}
+		
+		.nav
+		{
+			font-size: 2em;
+		}
+		
+		.zdjecia
+		{
+			width: 70%;
+			margin-left: 12.5%;
+			height: 70%;
+		}
+		
+		.naglowek
+		{
+			width: 77%;
+			margin-left: 10%;
+		}
+		
+		.naglowek table tr td ul li a
+		{
+			font-size: 2em;
+		}
+		
+		.inline .naglowek h3
+		{
+			font-size: 2em;
+		}
+		
+		.inline .naglowek table
+		{
+			margin-left: 6%;
+		}
+		
+		.pod_mapa
+		{
+			width: 80%;
+			margin-left: 6%;
+			font-size: 1.25em;
+		}
+}
+
+@media screen and (device-width: 375px) and (orientation: portrait)
+	{
+		.naglowek_home
+		{
+			width: 75%;
+			margin-left: 10%;
+		}
+		
+		.naglowek2
+		{
+			margin-top: 1%;
+			width: 75%;
+			margin-left: 10%;
+		}
+		
+		.zdjecie
+		{
+			margin-top: 1%;
+			width: 75%;
+			margin-left: 11%;
+		}
+		
+		.nav
+		{
+			font-size: 2em;
+		}
+		
+		.zdjecia
+		{
+			width: 70%;
+			margin-left: 12.5%;
+			height: 70%;
+		}
+		
+		.naglowek
+		{
+			width: 77%;
+			margin-left: 10%;
+		}
+		
+		.naglowek table tr td ul li a
+		{
+			font-size: 2em;
+		}
+		
+		.inline .naglowek h3
+		{
+			font-size: 2em;
+		}
+		
+		.inline .naglowek table
+		{
+			margin-left: 6%;
+		}
+		
+		.pod_mapa
+		{
+			width: 80%;
+			margin-left: 6%;
+			font-size: 1.25em;
+		}
+}
+
+@media screen and (device-width: 768px) and (orientation: portrait)
+	{
+		.naglowek_home
+		{
+			width: 75%;
+			margin-left: 10%;
+		}
+		
+		.naglowek2
+		{
+			margin-top: 1%;
+			width: 75%;
+			margin-left: 10%;
+		}
+		
+		.zdjecie
+		{
+			margin-top: 1%;
+			width: 75%;
+			margin-left: 11%;
+		}
+		
+		.nav
+		{
+			font-size: 2em;
+		}
+		
+		.zdjecia
+		{
+			width: 70%;
+			margin-left: 12.5%;
+			height: 70%;
+		}
+		
+		.naglowek
+		{
+			width: 77%;
+			margin-left: 10%;
+		}
+		
+		.naglowek table tr td ul li a
+		{
+			font-size: 2em;
+		}
+		
+		.inline .naglowek h3
+		{
+			font-size: 2em;
+		}
+		
+		.inline .naglowek table
+		{
+			margin-left: 6%;
+		}
+		
+		.pod_mapa
+		{
+			width: 80%;
+			margin-left: 6%;
+			font-size: 1.25em;
+		}
+}
