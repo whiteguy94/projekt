@@ -31,4 +31,10 @@
 			margin-left: 12.5%;
 			height: 70%;
 		}
+		
+		.naglowek
+		{
+			font-size: 1.5em;
+			font-weight: bold;
+		}
 	}
