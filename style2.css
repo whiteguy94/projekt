@@ -24,4 +24,11 @@
 		{
 			font-weight: bold;
 		}
+		
+		.zdjecia
+		{
+			width: 50%;
+			margin-left: 5%;
+			height: 50%;
+		}
 	}
