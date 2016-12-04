@@ -185,6 +185,7 @@ nav > a:hover
 	margin-left: 5%;
 	text-align: justify;
 	border: 5px solid black;
+	padding: 2px;
 }
 
 .zdjecia p
