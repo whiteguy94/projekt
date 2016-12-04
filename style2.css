@@ -47,4 +47,9 @@
 		{
 			font-size: 2em;
 		}
+		
+		.inline .naglowek table
+		{
+			margin-left: 5%;
+		}
 	}
