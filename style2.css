@@ -34,9 +34,12 @@
 		
 		.naglowek
 		{
-			width: 75%;
+			width: 77%;
 			margin-left: 10%;
-			font-size: 1.5em;
-			font-weight: bold;
+		}
+		
+		.naglowek table tr td ul li a
+		{
+			font-size: 2em;
 		}
 	}
