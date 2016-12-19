@@ -92,7 +92,6 @@ nav > a:hover
 	width:100%;
 	height: auto;
 	border: 5px solid black;
-	float: left;
 }
 
 .naglowek_home
@@ -126,14 +125,12 @@ nav > a:hover
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	width:100%;
 	border: 5px solid black;
-	float: left;
 }
 
 .zdjecie
 {
 	width:100%;
 	height: auto;
-	float: left;
 }
 
 .clear
